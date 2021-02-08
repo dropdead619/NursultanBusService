@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NursultanBusSystem", "NursultanBusSystem\NursultanBusSystem.csproj", "{FC40777E-053B-47DC-ABA2-180DA938E0F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI", "NursultanBusSystem\UI.csproj", "{FC40777E-053B-47DC-ABA2-180DA938E0F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{802FA992-4E15-4A34-8D2E-A57E78BFC574}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{802FA992-4E15-4A34-8D2E-A57E78BFC574}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{049CF3BA-047C-4FD5-8101-89B2480ED444}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{049CF3BA-047C-4FD5-8101-89B2480ED444}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -6,26 +6,34 @@ using Models;
 
 namespace Services
 {
-    class TransportCardService : ITransportCardService
+    public class TransportCardService : ITransportCardService
     {
-        public void Add(int sum, TransportCard transportCard)
+        TransportCard TransportCard { get;set; }
+
+        public TransportCardService()
+        {
+            TransportCard = new TransportCard();
+            TransportCard.Balance = 0;
+        }
+
+        public void Add(int sum)
         {
             if (sum >= 0)
             {
-                transportCard.Balance += sum;
+                TransportCard.Balance+=sum;
             }
         }
 
-        public int CheckBalance(TransportCard transportCard)
+        public int CheckBalance()
         {
-            return transportCard.Balance;
+            return TransportCard.Balance;
         }
 
-        public bool Validate(int balance, int busPrice)
+        public bool Validate(int busPrice)
         {
-            if (balance >= busPrice)
+            if (TransportCard.Balance >= busPrice)
             {
-                balance -= busPrice;
+                TransportCard.Balance -= busPrice;
                 return true;
             }
             return false;

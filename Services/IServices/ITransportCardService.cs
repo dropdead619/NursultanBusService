@@ -5,12 +5,12 @@ using Models;
 
 namespace Services.IServices
 {
-    interface ITransportCardService
+    public interface ITransportCardService
     {
-        public void Add(int sum, TransportCard transportCard);
+        public void Add(int sum);
 
-        public int CheckBalance(TransportCard transportCard);
+        public int CheckBalance();
 
-        public bool Validate(int balance, int busPrice);
+        public bool Validate(int busPrice);
     }
 }
