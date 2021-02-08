@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\NursultanBusSystem\\UI.csproj": {}
+    "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\NursultanBusSystem\\UI.csproj": {}
   },
   "projects": {
-    "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Models\\Models.csproj": {
+    "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Models\\Models.csproj",
-        "packagesPath": "C:\\Users\\russk\\.nuget\\packages\\",
-        "outputPath": "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Models\\obj\\",
+        "projectPath": "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\Anuar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\russk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Anuar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,21 +54,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\NursultanBusSystem\\UI.csproj": {
+    "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\NursultanBusSystem\\UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\NursultanBusSystem\\UI.csproj",
+        "projectUniqueName": "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\NursultanBusSystem\\UI.csproj",
         "projectName": "UI",
-        "projectPath": "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\NursultanBusSystem\\UI.csproj",
-        "packagesPath": "C:\\Users\\russk\\.nuget\\packages\\",
-        "outputPath": "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\NursultanBusSystem\\obj\\",
+        "projectPath": "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\NursultanBusSystem\\UI.csproj",
+        "packagesPath": "C:\\Users\\Anuar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\NursultanBusSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\russk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Anuar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,12 +80,13 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Models\\Models.csproj": {
-                "projectPath": "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Models\\Models.csproj"
+              "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Models\\Models.csproj"
               },
-              "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Services\\Services.csproj": {
-                "projectPath": "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Services\\Services.csproj"
+              "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Services\\Services.csproj"
               }
             }
           }
@@ -96,6 +99,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -111,21 +115,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Services\\Services.csproj": {
+    "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\russk\\.nuget\\packages\\",
-        "outputPath": "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Services\\obj\\",
+        "projectPath": "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Anuar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\russk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Anuar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -137,9 +141,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Models\\Models.csproj": {
-                "projectPath": "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Models\\Models.csproj"
+              "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Models\\Models.csproj"
               }
             }
           }
@@ -152,6 +157,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -167,7 +173,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -10,15 +10,18 @@ namespace UI
         {
             TransportCardService transportCard = new TransportCardService();
             
-            Console.WriteLine(@"*******************************
-*							  *
-*  Система оплаты транспорта  *
-* 							  *
-*                             *
-*******************************");
+
             bool flag = true;
-            while (flag)
+            int busTicketPrice = 90;
+            while (flag )
             {
+                Console.WriteLine(@"*******************************
+			
+  Система оплаты транспорта  
+							  
+
+*******************************");
+
                 Console.WriteLine("1.Пополнить баланс\n2.Произвести валидацию\n3.Проверить баланс\n0.Выход");
                 switch (Console.ReadLine())
                 {
@@ -26,9 +29,22 @@ namespace UI
                         Console.Write("Введите пополняемый баланс: ");
                         transportCard.Add(int.Parse(Console.ReadLine()));
                         Console.WriteLine($"Карта успешно пополнена! Ваш баланс составляет:{transportCard.CheckBalance()}");
+                        Console.ReadLine();
+                        Console.Clear();
                         break;
                     case "2":
-                        if (transportCard.Validate(90) == true)
+                        Console.WriteLine("Выберете зону оплаты:");
+                        Console.WriteLine("1.Город\n2.Пригород");                      
+                        switch (Console.ReadLine())
+                        {
+                            case "1":
+                                busTicketPrice = 90;
+                                break;
+                            case "2":
+                                busTicketPrice = 180;
+                                break;
+                        }                            
+                        if (transportCard.Validate(busTicketPrice) == true)
                         {
                             Console.WriteLine("Оплачено!");
                         }
@@ -36,9 +52,13 @@ namespace UI
                         {
                             Console.WriteLine("Не достаточно баланса!");
                         }
+                        Console.ReadLine();
+                        Console.Clear();
                         break;
                     case "3":
                         Console.WriteLine(transportCard.CheckBalance());
+                        Console.ReadLine();
+                        Console.Clear();
                         break;
                     case "0":
                         flag = false;

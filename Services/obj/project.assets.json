@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\russk\\.nuget\\packages\\": {}
+    "C:\\Users\\Anuar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Services\\Services.csproj",
-      "packagesPath": "C:\\Users\\russk\\.nuget\\packages\\",
-      "outputPath": "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Services\\obj\\",
+      "projectPath": "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Services\\Services.csproj",
+      "packagesPath": "C:\\Users\\Anuar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\russk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Anuar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,9 +51,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Models\\Models.csproj": {
-              "projectPath": "D:\\Сетевая инженерия\\IT Academy\\C# & .NET\\Проекты\\NursultanBusService\\Models\\Models.csproj"
+            "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\Anuar\\Desktop\\Новая папка (4)\\NursultanBusService\\Models\\Models.csproj"
             }
           }
         }
@@ -66,6 +67,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -81,7 +83,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

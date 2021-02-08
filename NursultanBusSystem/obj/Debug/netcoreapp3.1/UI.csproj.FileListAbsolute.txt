@@ -16,3 +16,21 @@ D:\Сетевая инженерия\IT Academy\C# & .NET\Проекты\Nursult
 D:\Сетевая инженерия\IT Academy\C# & .NET\Проекты\NursultanBusService\NursultanBusSystem\obj\Debug\netcoreapp3.1\UI.dll
 D:\Сетевая инженерия\IT Academy\C# & .NET\Проекты\NursultanBusService\NursultanBusSystem\obj\Debug\netcoreapp3.1\UI.pdb
 D:\Сетевая инженерия\IT Academy\C# & .NET\Проекты\NursultanBusService\NursultanBusSystem\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\NursultanBusSystem\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache

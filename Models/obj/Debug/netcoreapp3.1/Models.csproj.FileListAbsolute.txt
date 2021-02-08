@@ -7,3 +7,12 @@ D:\Сетевая инженерия\IT Academy\C# & .NET\Проекты\Nursult
 D:\Сетевая инженерия\IT Academy\C# & .NET\Проекты\NursultanBusService\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
 D:\Сетевая инженерия\IT Academy\C# & .NET\Проекты\NursultanBusService\Models\obj\Debug\netcoreapp3.1\Models.dll
 D:\Сетевая инженерия\IT Academy\C# & .NET\Проекты\NursultanBusService\Models\obj\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\Anuar\Desktop\Новая папка (4)\NursultanBusService\Models\obj\Debug\netcoreapp3.1\Models.pdb
