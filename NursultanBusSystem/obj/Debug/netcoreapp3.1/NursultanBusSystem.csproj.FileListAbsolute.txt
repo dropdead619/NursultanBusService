@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\NursultanBusSystem\NursultanBusSystem\bin\Debug\netcoreapp3.1\NursultanBusSystem.exe
+C:\Users\User\source\repos\NursultanBusSystem\NursultanBusSystem\bin\Debug\netcoreapp3.1\NursultanBusSystem.deps.json
+C:\Users\User\source\repos\NursultanBusSystem\NursultanBusSystem\bin\Debug\netcoreapp3.1\NursultanBusSystem.runtimeconfig.json
+C:\Users\User\source\repos\NursultanBusSystem\NursultanBusSystem\bin\Debug\netcoreapp3.1\NursultanBusSystem.runtimeconfig.dev.json
+C:\Users\User\source\repos\NursultanBusSystem\NursultanBusSystem\bin\Debug\netcoreapp3.1\NursultanBusSystem.dll
+C:\Users\User\source\repos\NursultanBusSystem\NursultanBusSystem\bin\Debug\netcoreapp3.1\NursultanBusSystem.pdb
+C:\Users\User\source\repos\NursultanBusSystem\NursultanBusSystem\obj\Debug\netcoreapp3.1\NursultanBusSystem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NursultanBusSystem\NursultanBusSystem\obj\Debug\netcoreapp3.1\NursultanBusSystem.AssemblyInfo.cs
+C:\Users\User\source\repos\NursultanBusSystem\NursultanBusSystem\obj\Debug\netcoreapp3.1\NursultanBusSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NursultanBusSystem\NursultanBusSystem\obj\Debug\netcoreapp3.1\NursultanBusSystem.dll
+C:\Users\User\source\repos\NursultanBusSystem\NursultanBusSystem\obj\Debug\netcoreapp3.1\NursultanBusSystem.pdb
+C:\Users\User\source\repos\NursultanBusSystem\NursultanBusSystem\obj\Debug\netcoreapp3.1\NursultanBusSystem.genruntimeconfig.cache
